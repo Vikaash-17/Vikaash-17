@@ -21,7 +21,7 @@ I enjoy understanding Artificial Intelligence from first principles and translat
 
 ## ⭐ Featured Projects
 
-### [🏛️ Trustworthy AI for Indian Legal Judgment Summarization] ongoing
+### [🏛️ Trustworthy AI for Indian Legal Judgment Summarization] (ongoing)
 A post-summarization trust verification framework evaluating factual consistency, evidence support, hallucinations, and confidence across summaries from different LLMs.
 
 ### [🤖 Transformer From Scratch](#)
