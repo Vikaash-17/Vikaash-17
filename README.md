@@ -48,7 +48,7 @@ To become an AI Engineer designing intelligent systems with a strong focus on NL
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+- LinkedIn: [www.linkedin.com/in/vikaash-thirumalai-3b690a2b8]
+- Email: [vikaashdev08@gmail.com]
 
 *"Great AI systems are not built by only using models—they are built by understanding why they work and how they can be trusted."*
