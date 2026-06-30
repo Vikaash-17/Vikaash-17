@@ -21,7 +21,7 @@ I enjoy understanding Artificial Intelligence from first principles and translat
 
 ## ⭐ Featured Projects
 
-### [🏛️ Trustworthy AI for Indian Legal Judgment Summarization] (ongoing)
+### [🏛️ Trustworthy AI for Indian Legal Judgment Summarization](#) *(ongoing)*
 A post-summarization trust verification framework evaluating factual consistency, evidence support, hallucinations, and confidence across summaries from different LLMs.
 
 ### [🤖 Transformer From Scratch](#)
@@ -48,7 +48,7 @@ To become an AI Engineer designing intelligent systems with a strong focus on NL
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: www.linkedin.com/in/vikaash-thirumalai-3b690a2b8
-- Email: vikaashdev08@gmail.com
+- LinkedIn: [your-linkedin-url]
+- Email: [your-email]
 
 *"Great AI systems are not built by only using models—they are built by understanding why they work and how they can be trusted."*
