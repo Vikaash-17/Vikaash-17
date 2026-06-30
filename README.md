@@ -1,3 +1,4 @@
+![Banner](./VIKAASH%20LinkedIn%20Banner.png)
 # Building AI Systems That Are Understandable, Trustworthy, and Practical
 **Information Technology Student | AI Engineer | NLP & LLM Enthusiast | Trustworthy AI Research**
 
@@ -48,7 +49,7 @@ To become an AI Engineer designing intelligent systems with a strong focus on NL
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: [www.linkedin.com/in/vikaash-thirumalai-3b690a2b8]
-- Email: [vikaashdev08@gmail.com]
+- LinkedIn: www.linkedin.com/in/vikaash-thirumalai-3b690a2b8
+- Email: vikaashdev08@gmail.com
 
 *"Great AI systems are not built by only using models—they are built by understanding why they work and how they can be trusted."*
