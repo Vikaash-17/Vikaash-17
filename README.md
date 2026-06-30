@@ -1,16 +1,54 @@
-## Hi there 👋
+# Building AI Systems That Are Understandable, Trustworthy, and Practical
+**Information Technology Student | AI Engineer | NLP & LLM Enthusiast | Trustworthy AI Research**
 
-<!--
-**Vikaash-17/Vikaash-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy understanding Artificial Intelligence from first principles and translating theory into practical systems — building models that are not just accurate, but explainable, reliable, and reproducible.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🤖 AI Engineering & applied Machine Learning
+- 🧠 Building deep learning models from scratch to understand how they work internally
+- ⚖️ Exploring Trustworthy AI, Explainable AI (XAI), and AI evaluation
+- 📚 Combining math, programming, and experimentation to solve AI problems
+
+---
+
+## 🔬 Focus Areas
+**Working on:** NLP · LLMs · Trustworthy AI for Legal Systems · Transformer Architectures · RAG · XAI · Hallucination Detection
+**Currently learning:** Advanced LLM Architectures · AI Agents · Efficient Fine-Tuning · Multimodal AI · AI Safety & Alignment
+
+---
+
+## ⭐ Featured Projects
+
+### [🏛️ Trustworthy AI for Indian Legal Judgment Summarization] ongoing
+A post-summarization trust verification framework evaluating factual consistency, evidence support, hallucinations, and confidence across summaries from different LLMs.
+
+### [🤖 Transformer From Scratch](#)
+A complete implementation of the Transformer architecture — self-attention, positional encoding, multi-head attention, encoder-decoder, and training from the ground up.
+
+### [📊 Multimodal Customer Churn Prediction with Explainable AI](#)
+A multimodal framework combining structured customer data, behavioral data, and textual complaints for churn prediction with interpretable explanations.
+
+---
+
+## 💻 Technical Skills
+**Languages:** Python · SQL
+**AI/ML:** PyTorch · TensorFlow · Scikit-learn
+**NLP:** Transformers · Hugging Face · spaCy · NLTK · BERT · Sentence Transformers
+**Data Science:** NumPy · Pandas · Matplotlib
+**Databases:** PostgreSQL
+**Tools:** Git · GitHub · VS Code · Jupyter Notebook
+
+---
+
+## 🎯 Career Goal
+To become an AI Engineer designing intelligent systems with a strong focus on NLP, LLMs, and Trustworthy AI — contributing to research and building practical AI solutions that solve real-world problems.
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: www.linkedin.com/in/vikaash-thirumalai-3b690a2b8
+- Email: vikaashdev08@gmail.com
+
+*"Great AI systems are not built by only using models—they are built by understanding why they work and how they can be trusted."*
